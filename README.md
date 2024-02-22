@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Programming, DevOps, Machine Learning, Cyber Security, and Electronics.
 - 👯 I’m looking to collaborate on projects related to innovative technologies and problem-solving.
 - 💬 Ask me about anything related to technology, I'm happy to help.
-- 📫 How to reach me: [haroonhsa007@example.com](mailto:haroonhsa007@example.com)
+- 📫 How to reach me: [Haroohsa1234@gmail.com](mailto:haroohsa1234@gmail.com)
 - 😄 Pronouns: He/Him
 
 ### Technologies & Tools
@@ -18,12 +18,14 @@
 
 ### GitHub Stats
 [![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&theme=dark)](https://github.com/Haroonhsa007)
-
+<!--
 ### Recent Projects
 - [Project 1](https://github.com/Haroonhsa007/#)
 - [Project 2](https://github.com/Haroonhsa007/#)
-
+--!>
+<!--
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroon-saleem)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/haroonhsa007)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://haroonhsa007.github.io/portfolio/)
+--!>
