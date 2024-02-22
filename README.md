@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning about Programming, DevOps, Machine Learning, Cyber Security, and Electronics.
 - 👯 I’m looking to collaborate on projects related to innovative technologies and problem-solving.
 - 💬 Ask me about anything related to technology, I'm happy to help.
-- 📫 How to reach me: [Haroohsa1234@gmail.com](mailto:haroohsa1234@gmail.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Haroonhsa1234@gmail.com](mailto:haroonhsa1234@gmail.com)
+- 😄 
 
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
