@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - 🔭 I’m currently working on enhancing Palm Print Identification System (bioMetricSystem) for my BSc. Electrical Engineering FYP.
 - 🌱 I’m currently learning about Programming, DevOps, Machine Learning, Cyber Security, and Electronics.
 - 👯 I’m looking to collaborate on projects related to innovative technologies and problem-solving.
