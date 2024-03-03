@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Haroonhsa007&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 #  About Me:
 - 🔭 I’m currently working on enhancing Palm Print Identification System (bioMetricSystem) for my BSc. Electrical Engineering FYP.
 - 🌱 I’m currently learning about Programming, DevOps, Machine Learning, Cyber Security, and Electronics.
@@ -32,5 +33,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Haroonhsa007&icon=5&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Haroonhsa007&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
