@@ -85,5 +85,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Haroonhsa007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Haroonhsa007&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![...](https://visitcount.itsvg.in/api?id=Haroonhsa007&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
