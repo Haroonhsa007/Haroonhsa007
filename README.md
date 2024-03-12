@@ -85,6 +85,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Haroonhsa007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Haroonhsa007&label=Profile%20Views&color=8&icon=3&pretty=true" />
-</a>
+
