@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to innovative technologies and problem-solving.
 - 💬 Ask me about anything related to technology, I'm happy to help.
 - 📫 How to reach me: [Haroonhsa1234@gmail.com](mailto:haroonhsa1234@gmail.com)
-- come ksleep with me im interested im gay my not standig good luck just a text away`
+
   
 
 
