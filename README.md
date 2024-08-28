@@ -1,13 +1,10 @@
-h
 #  About Me:
-- 🔭 I’m currently working on enhancing Palm Print Identification System (bioMetricSystem) for my BSc. Electrical Engineering FYP.
+- 🔭 Final Year Project Completed B.Sc Electrical Engineering
+  - Enahnce Palm Print Ientificication System Using Document Scanner Imagery
 - 🌱 I’m currently learning about Programming, DevOps, Machine Learning, Cyber Security, and Electronics.
 - 👯 I’m looking to collaborate on projects related to innovative technologies and problem-solving.
 - 💬 Ask me about anything related to technology, I'm happy to help.
 - 📫 How to reach me: [Haroonhsa1234@gmail.com](mailto:haroonhsa1234@gmail.com)
-
-  
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/TheHatPro/)
@@ -15,6 +12,7 @@ h
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Haroonhsa007/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haroonhsa1234@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:haroonhsa1234@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroon-saleem-168aa5323/)
 
  💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
