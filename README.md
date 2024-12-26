@@ -84,5 +84,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Haroonhsa007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
