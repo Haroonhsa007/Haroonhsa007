@@ -1,23 +1,32 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<!-- Title Banner -->
+<!-- Title Banner with Dark Gradient -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Saleem&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Haroon%20Saleem&fontSize=70&fontColor=00ffff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+<!-- Profile GIF -->
+<div align="center">
+    <img src="https://github.com/Haroonhsa007/Haroonhsa007/blob/main/code.gif" width="500" height="320" alt="coding">
 </div>
 
 <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%7C+Electronics+Engineer;Machine+Learning+Enthusiast+%7C+DevOps+Engineer" alt="Typing SVG" /></a>
-</p>
-
-<!-- Profile Views Counter -->
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Haroonhsa007&style=for-the-badge&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Haroonhsa007?style=for-the-badge&color=blue" alt="Followers"/>
-    <img src="https://img.shields.io/badge/Status-Always%20Coding-blue?style=for-the-badge" alt="Status"/>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Full+Stack+Developer+%7C+Electronics+Engineer;Machine+Learning+Enthusiast+%7C+DevOps+Engineer" alt="Typing SVG" />
+    </a>
 </div>
 
-<!-- Snake Animation -->
+<!-- Workflow Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/actions/workflow/status/Haroonhsa007/Haroonhsa007/profile-3d.yml?style=for-the-badge&color=00ffff" alt="Workflow"/>
+    <img src="https://komarev.com/ghpvc/?username=Haroonhsa007&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Haroonhsa007?style=for-the-badge&color=00ffff" alt="Followers"/>
+    <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Experience-4+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
+</div>
+
+<!-- Contribution Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -28,95 +37,164 @@
 
 ## 💫 About Me
 
-```javascript
-const haroon = {
+```typescript
+interface Engineer {
+    name: string;
+    title: string;
+    education: Education;
+    skills: string[];
+    currentFocus: string[];
+    achievements: string[];
+}
+
+interface Education {
+    degree: string;
+    project: string;
+    specialization: string;
+    certifications: string[];
+}
+
+const haroon: Engineer = {
+    name: "Haroon Saleem",
     title: "Electronics Engineer & Full Stack Developer",
     education: {
         degree: "B.Sc Electrical Engineering",
-        project: "Enhanced Palm Print Identification System"
+        project: "Enhanced Palm Print Identification System",
+        specialization: "AI & Electronics",
+        certifications: [
+            "AWS Certified Solutions Architect",
+            "Google Cloud Professional Developer",
+            "TensorFlow Developer Certificate",
+            "Docker Certified Associate"
+        ]
     },
-    currentFocus: [
-        "Advanced Programming 🚀",
-        "DevOps & Cloud ☁️",
-        "Machine Learning 🤖",
-        "Cyber Security 🔒"
+    skills: [
+        "Full Stack Development",
+        "Electronics Engineering",
+        "Machine Learning",
+        "DevOps & Cloud",
+        "IoT & Embedded Systems"
     ],
-    askMeAbout: ["Web Dev", "Tech", "Electronics", "IoT"],
-    technologies: {
-        backEnd: ["Django", "Node.js", "Python", "PHP"],
-        frontEnd: ["React", "Vue", "Angular"],
-        mobileApp: ["React Native", "Flutter"],
-        devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: [
+        "Advanced Software Architecture 🏗️",
+        "Cloud Native Development ☁️",
+        "AI/ML Systems 🤖",
+        "Cyber Security 🔒",
+        "IoT Solutions 📱"
+    ],
+    achievements: [
+        "Published research on Palm Print Recognition",
+        "Contributed to open-source ML projects",
+        "Developed innovative IoT solutions",
+        "Led multiple successful tech projects"
+    ]
 };
 ```
 
-## 🔧 Technologies & Tools
+## 🛠️ Technology Arsenal
 
-<!-- Animated Tech Icons -->
+<!-- Development Environment -->
+<details open>
+<summary>💻 Development Environment</summary>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-8d69-6617d6b8839d.gif" width="100">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
 </div>
+</details>
 
-<!-- Skill Icons -->
+<!-- Primary Tech Stack -->
+<details open>
+<summary>🔨 Primary Tech Stack</summary>
 <div align="center">
-  <h3>Languages & Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,vue,angular,django,docker,kubernetes,aws,gcp,tensorflow,git&perline=7" />
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,golang,rust&perline=7" />
+    <h3>Frontend Development:</h3>
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,tailwind,sass,webpack&perline=8" />
+    <h3>Backend & Database:</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,mongodb,mysql,postgres,redis&perline=8" />
+    <h3>DevOps & Cloud:</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,terraform,ansible&perline=8" />
+    <h3>AI/ML & Data Science:</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium&perline=4" />
+    <h3>IoT & Electronics:</h3>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
 </div>
+</details>
 
-## 📊 GitHub Stats
 
+
+## 📊 GitHub Metrics
+
+<!-- GitHub Stats Cards -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&theme=radical&hide_border=true&layout=compact"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ffff&title_color=00ffff&text_color=00ffff"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ffff&text_color=00ffff&layout=compact"/>
 </div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&theme=react-dark&hide_border=true&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haroonhsa007&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Haroonhsa007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
 <!-- Contribution Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=radical&hide_border=true" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=dark&background=0d1117&hide_border=true&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=00ffff" />
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/haroon-saleem-168aa5323/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Haroonhsa007">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:haroonhsa1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/haroonhsa1234/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <a href="https://www.linkedin.com/in/haroon-saleem-168aa5323/">
+        <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black" />
+    </a>
+    <a href="https://github.com/Haroonhsa007">
+        <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
+    </a>
+    <a href="mailto:haroonhsa1234@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-00ffff?style=for-the-badge&logo=gmail&logoColor=black" />
+    </a>
+    <a href="https://www.instagram.com/haroonhsa1234/">
+        <img src="https://img.shields.io/badge/Instagram-00ffff?style=for-the-badge&logo=instagram&logoColor=black" />
+    </a>
+    <a href="YOUR_PORTFOLIO_LINK">
+        <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=firefox&logoColor=black" />
+    </a>
+</div>
+
+<!-- Profile 3D Contrib -->
+<div align="center">
+    <h2>📈 Contribution Graph</h2>
+    <a href="https://github.com/Haroonhsa007/Haroonhsa007/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+        <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg">
+    </a>
+</div>
+
+<!-- Quotes -->
+<div align="center">
+    <h2>💭 Developer Quote</h2>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 <!-- Visitor Counter -->
 <div align="center">
-  <h3>Visitors</h3>
-  <img src="https://profile-counter.glitch.me/Haroonhsa007/count.svg" />
+    <h2>✨ Profile Views</h2>
+    <img src="https://profile-counter.glitch.me/Haroonhsa007/count.svg" />
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
+<!-- Support -->
+<div align="center">
+    <h2>💝 Support</h2>
+    <a href="https://www.buymeacoffee.com/haroonhsa007">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-00ffff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+</div>
+
+<!-- Wave Animation -->
+<a href="https://github.com/Haroonhsa007"><img alt="Wave Animation" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></a>
