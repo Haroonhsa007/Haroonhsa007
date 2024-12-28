@@ -1,32 +1,27 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<!-- Title Banner with Dark Gradient -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Haroon%20Saleem&fontSize=70&fontColor=00ffff&animation=twinkling&fontAlignY=35"/>
 </div>
 
-<!-- Profile GIF -->
 <div align="center">
     <img src="https://github.com/Haroonhsa007/Haroonhsa007/blob/main/code.gif" width="500" height="320" alt="coding">
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Full+Stack+Developer+%7C+Electronics+Engineer;Machine+Learning+Enthusiast+%7C+DevOps+Engineer" alt="Typing SVG" />
     </a>
 </div>
 
-<!-- Workflow Badges -->
 <div align="center">
-    <img src="https://img.shields.io/github/actions/workflow/status/Haroonhsa007/Haroonhsa007/profile-3d.yml?style=for-the-badge&color=00ffff" alt="Workflow"/>
+<!--     <img src="https://img.shields.io/github/actions/workflow/status/Haroonhsa007/Haroonhsa007/profile-3d.yml?style=for-the-badge&color=00ffff" alt="Workflow"/> -->
     <img src="https://komarev.com/ghpvc/?username=Haroonhsa007&style=for-the-badge&color=00ffff" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/Haroonhsa007?style=for-the-badge&color=00ffff" alt="Followers"/>
     <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
     <img src="https://img.shields.io/badge/Experience-4+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
 </div>
 
-<!-- Contribution Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -91,9 +86,8 @@ const haroon: Engineer = {
 };
 ```
 
-## 🛠️ Technology Arsenal
+## 🎯 Expertise Areas
 
-<!-- Development Environment -->
 <details open>
 <summary>💻 Development Environment</summary>
 <div align="center">
@@ -104,9 +98,8 @@ const haroon: Engineer = {
 </div>
 </details>
 
-<!-- Primary Tech Stack -->
 <details open>
-<summary>🔨 Primary Tech Stack</summary>
+<summary>🔨 Tech Stack</summary>
 <div align="center">
     <h3>Languages:</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,golang,rust&perline=7" />
@@ -123,32 +116,26 @@ const haroon: Engineer = {
 </div>
 </details>
 
+## 📊 GitHub Analytics
 
-
-## 📊 GitHub Metrics
-
-<!-- GitHub Stats Cards -->
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ffff&title_color=00ffff&text_color=00ffff"/>
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ffff&text_color=00ffff&layout=compact"/>
 </div>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
-<!-- GitHub Trophies -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Haroonhsa007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
-<!-- Contribution Streak -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=dark&background=0d1117&hide_border=true&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=00ffff" />
 </div>
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
     <a href="https://www.linkedin.com/in/haroon-saleem-168aa5323/">
@@ -163,38 +150,32 @@ const haroon: Engineer = {
     <a href="https://www.instagram.com/haroonhsa1234/">
         <img src="https://img.shields.io/badge/Instagram-00ffff?style=for-the-badge&logo=instagram&logoColor=black" />
     </a>
-    <a href="YOUR_PORTFOLIO_LINK">
+    <a href="#">
         <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=firefox&logoColor=black" />
     </a>
 </div>
 
-<!-- Profile 3D Contrib -->
-<div align="center">
-    <h2>📈 Contribution Graph</h2>
-    <a href="https://github.com/Haroonhsa007/Haroonhsa007/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-        <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg">
-    </a>
-</div>
 
-<!-- Quotes -->
+## 💭 Developer Quote
+
 <div align="center">
-    <h2>💭 Developer Quote</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<!-- Visitor Counter -->
+## ✨ Profile Views
+
 <div align="center">
-    <h2>✨ Profile Views</h2>
     <img src="https://profile-counter.glitch.me/Haroonhsa007/count.svg" />
 </div>
 
-<!-- Support -->
+## 💝 Support
+
 <div align="center">
-    <h2>💝 Support</h2>
     <a href="https://www.buymeacoffee.com/haroonhsa007">
         <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-00ffff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
     </a>
 </div>
 
-<!-- Wave Animation -->
-<a href="https://github.com/Haroonhsa007"><img alt="Wave Animation" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></a>
+<div align="center">
+    <img alt="Wave Animation" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</div>
