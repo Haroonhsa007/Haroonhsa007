@@ -99,6 +99,7 @@ const haroon: Engineer = {
 </details>
 
 <details open>
+    
 <summary>🔨 Tech Stack</summary>
 <div align="center">
     <h3>Languages:</h3>
