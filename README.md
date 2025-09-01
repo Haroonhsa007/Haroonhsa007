@@ -120,20 +120,24 @@ const haroon: Engineer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00ffff&title_color=00ffff&text_color=00ffff"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ffff&text_color=00ffff&layout=compact"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Haroon Saleem github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=dark&hide_border=true&stroke=00ffff&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Haroonhsa007&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=147b96&title_color=00ffff&area=true&hide_border=true" width="95%"/>
 </div>
 
+## 🏆 Achievements
+
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=dark&background=0d1117&hide_border=true&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=00ffff" />
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haroonhsa007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 🌐 Connect With Me
