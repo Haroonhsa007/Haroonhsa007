@@ -25,11 +25,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haroonhsa007/Haroonhsa007/output/github-contribution-grid-snake.svg?v=3">
   </picture>
 </div>
+
 
 ## 💫 About Me
 
@@ -121,17 +122,18 @@ const haroon: Engineer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Haroon Saleem github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Haroonhsa007&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=7200&v=2" alt="Haroon Saleem github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonhsa007&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117&cache_seconds=7200&v=2" alt="Top Languages"/>
 </div>
 
 <div align="center">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonhsa007&theme=dark&hide_border=true&stroke=00ffff&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
+    <img width="90%" src="https://streak-stats.demolab.com/?user=Haroonhsa007&theme=dark&hide_border=true&stroke=00ffff&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&cache_seconds=7200&v=2" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=147b96&title_color=00ffff&area=true&hide_border=true" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonhsa007&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=147b96&title_color=00ffff&area=true&hide_border=true&cache_seconds=7200&v=2" width="95%" alt="Contribution Graph"/>
 </div>
+
 
 ## 🏆 Achievements
 
