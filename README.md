@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <sub><b>VOL. MMXXVI</b> &nbsp;·&nbsp; <i>One engineer, many domains</i> &nbsp;·&nbsp; <b>Printed in Islamabad</b></sub>
+  <sub><b>VOL. MMXXVI</b> &nbsp;·&nbsp; <i>One engineer, many domains</i> &nbsp;·&nbsp; <b></b></sub>
 </div>
 
 <br/>
