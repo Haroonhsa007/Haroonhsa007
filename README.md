@@ -54,7 +54,7 @@ It is an unglamorous sequence, and it is the reason the systems stay up long aft
 
 <div align="center">
 
-| **3+** | **19** | **6** | **70+** |
+| **5+** | **20** | **6** | **100+** |
 |:---:|:---:|:---:|:---:|
 | Years in production | Systems on file | Credentials | Repositories |
 
